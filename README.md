@@ -13,7 +13,7 @@
 </p>
 
 <p align ="center">
-<img src = "Images/Icon Converter Summary Page.png" width = "700">
+<img src = "Images/GPA_Grapher_Preview.png" width = "400">
 </p>
 
 ### Features
