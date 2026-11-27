@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Images/GPA_Grapher_Icon.webp" width = "110"><br/>
+  <img src="/Images/GPA_Grapher_Icon.webp" width = "70"><br/>
 <b>GPA Grapher</b>
 </p>
 
