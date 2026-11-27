@@ -28,7 +28,7 @@
 <br/>
 
 ### Project Files 
-[IconConverter Source Files](https://github.com/MichaelTroeung/GPA-Grapher/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Windows Build [exe]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[IconConverter Source Files](https://github.com/MichaelTroeung/GPA-Grapher/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Windows Build [exe]](https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher.Setup.1.0.0.exe)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MacOS Build [dmg]](https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher-1.0.0.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>
