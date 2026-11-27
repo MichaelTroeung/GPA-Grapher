@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/Images/IconConverter.png" width = "110"><br/>
-<b>Icon Converter</b>
+<b>GPA Grapher</b>
 </p>
 
 <br/>
@@ -17,9 +17,9 @@
 </p>
 
 ### Features
-- Converts PNG images into .icns and .ico icon formats
-- Icons generated include a series of resolutions that support a variety of sizes used through each Operating System (OS)
-- Exports all files directly onto the desktop
+- Calculates and graphs CGPAs
+- Generates Pl chart breakdown
+- Organizes marks by semester and compares CGPA vs Term GPA.
 <br/>
 
 ### Languages/Frameworks
@@ -31,7 +31,7 @@ Resizing images and conversion from PNG to .incs and .ico takes advantage of the
 <br/>
 
 ### Project Files 
-[IconConverter Source Files](https://github.com/MichaelTroeung/GPA-Grapher/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[IconConverter Source Files](https://github.com/MichaelTroeung/GPA-Grapher/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Windows Build [exe]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>
