@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<a href="https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher-1.0.0.dmg"><img src="/Images/macOS_Download.png" width="20%"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher.Setup.1.0.0.exe"><img src="/Images/Windows_Download.png" width="20%"></a>
+<a href="https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher-1.0.0.dmg"><img src="/Images/macOS_Download_Button.png" width="25%"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MichaelTroeung/GPA-Grapher/releases/download/Release/GPA.Grapher.Setup.1.0.0.exe"><img src="/Images/Windows_Download_Button.png" width="25%"></a>
 </p>
 
 
